@@ -1,1 +1,0 @@
-Test déclencheur hors connexion
